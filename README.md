@@ -51,7 +51,7 @@ Project Page: <https://genesis-embodied-ai.github.io/>
 
 ## Key Features
 
-- **Speed**: Genesis delivers an unprecedented simulation speed -- over 43 million FPS when simulating a Franka robotic arm with a single RTX 4090 (430,000 times faster than real-time).
+- **Speed**: Genesis delivers an unprecedented simulation speed -- over 44 million FPS when simulating a Franka robotic arm with a single RTX 4090 (430,000 times faster than real-time).
 - **Cross-platform**: Genesis runs natively across different systems (Linux, MacOS, Windows), and across different compute backend (CPU, Nvidia GPU, AMD GPU, Apple Metal).
 - **Unification of various physics solvers**: Genesis develops a unified simulation framework that integrates various physics solvers: Rigid body, MPM, SPH, FEM, PBD, Stable Fluid.
 - **Support a wide range of material models**:  Genesis supports simulation (and the coupling) of rigid and articulated bodies, various types of liquids, gaseous phenomenon, deformable objects, thin-shell objects and granular materials.
